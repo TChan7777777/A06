@@ -23,14 +23,5 @@ main h2 {
 main h3 {
 	font-size: 105%;
 }
-a:hover{
-	font-style: italic;
-}
-/* the styles for the footer */
-#footer{
-	display: table;
-	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
 
-}
+/* the styles for the footer */
