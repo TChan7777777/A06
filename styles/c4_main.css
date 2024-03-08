@@ -27,3 +27,6 @@ a:hover{
 	font-style: italic;
 }
 /* the styles for the footer */
+#footer{
+	text-align: center;
+}
