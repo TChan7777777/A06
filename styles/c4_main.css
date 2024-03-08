@@ -28,7 +28,9 @@ a:hover{
 }
 /* the styles for the footer */
 #footer{
+	display: table;
+	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 2em;
+
 }
