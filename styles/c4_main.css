@@ -23,5 +23,7 @@ main h2 {
 main h3 {
 	font-size: 105%;
 }
-
+a{
+	font-style: italic;
+}
 /* the styles for the footer */
