@@ -27,4 +27,12 @@ main h3 {
 	text-indent: 30px;
 }
 
+main a:hover a:focus{
+	font-style: italic;
+}
 /* the styles for the footer */
+#footer{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2em;
+}
